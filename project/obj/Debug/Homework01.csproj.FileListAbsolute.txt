@@ -1,0 +1,8 @@
+C:\Users\Kozak Zhan\Desktop\homework_first_wpf-master\project\obj\Debug\Login.g.cs
+C:\Users\Kozak Zhan\Desktop\homework_first_wpf-master\project\obj\Debug\MainWindow.g.cs
+C:\Users\Kozak Zhan\Desktop\homework_first_wpf-master\project\obj\Debug\Registration.g.cs
+C:\Users\Kozak Zhan\Desktop\homework_first_wpf-master\project\obj\Debug\App.g.cs
+C:\Users\Kozak Zhan\Desktop\homework_first_wpf-master\project\obj\Debug\project_MarkupCompile.cache
+C:\Users\Kozak Zhan\Desktop\homework_first_wpf-master\project\obj\Debug\project_MarkupCompile.lref
+C:\Users\Kozak Zhan\Desktop\homework_first_wpf-master\project\obj\Debug\project.exe
+C:\Users\Kozak Zhan\Desktop\homework_first_wpf-master\project\obj\Debug\project.pdb
